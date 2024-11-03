@@ -17,8 +17,12 @@ Code reproducing ***Figure 2*** can be found in the following Jupyter notebook: 
 
 **Figure 3: Manifold-learning using potential of heat-diffusion for affinity-based trajectory embedding (PHATE) on Euler characteristic transform (ECT) images of leaves. A)** Leaves from across the land plants (black points) and specific taxa (indicated by color kernel density distributions, see legend), **B)** representative leaf shapes (black contours) and features of the shape space (indicated by arrows and lowercase letters, see text for explanation), **C)** width-to-length ratio (indicated by color, see legend), and **D)** solidity to the eighth power (indicated by color, see legend) projected onto a three-dimensional PHATE embedding of ECT images. For all panels, PHATE2 vs. PHATE 1 (left), PHATE3 vs. PHATE1 (middle), and PHATE3 vs. PHATE2 (right) plots are provided.
 
+Code reproducing ***Figure 3*** can be found in the following Jupyter notebook: https://github.com/DanChitwood/Euler_characteristic_plant_shapes/blob/main/Figure3/figure_3.ipynb
+
 ![alt text](https://github.com/DanChitwood/Euler_characteristic_plant_shapes/blob/main/Figure3/Figure3.png)
 
 **Figure 4: Manifold-learning using potential of heat-diffusion for affinity-based trajectory embedding (PHATE) on Euler characteristic transform (ECT) images of pavement cells. A)** Pavement cells colored by major clade identity (see legend), **B)** representative cell shapes (black contours) and features of the shape space (indicated by arrows and lowercase letters, see text for explanation), **C)** width-to-length ratio (indicated by color, see legend), and **D)** solidity to the eighth power (indicated by color, see legend) projected onto a three-dimensional PHATE embedding of ECT images. For all panels, PHATE2 vs. PHATE 1 (left), PHATE3 vs. PHATE1 (middle), and PHATE3 vs. PHATE2 (right) plots are provided.
+
+Code reproducing ***Figure 4*** can be found in the following Jupyter notebook: https://github.com/DanChitwood/Euler_characteristic_plant_shapes/blob/main/Figure4/figure_4.ipynb
 
 ![alt text](https://github.com/DanChitwood/Euler_characteristic_plant_shapes/blob/main/Figure4/Figure4.png)
